@@ -1,3 +1,5 @@
+// Using RapidAPI
+
 const options = {
 	method: 'GET',
 	headers: {
